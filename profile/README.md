@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://parallaxprotocol.org">
-  <img src="https://parallaxprotocol.org/og.png?v=1" alt="Parallax — secured by physics" width="720">
+  <img src="https://parallaxprotocol.org/og.png?v=2" alt="Parallax — secured by physics" width="720">
 </a>
 
 # Parallax Protocol
