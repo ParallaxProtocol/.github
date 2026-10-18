@@ -41,7 +41,7 @@ point it at the public RPC: `https://rpc.parallaxprotocol.org`.
 | Repo | What it is |
 |---|---|
 | [parallax](https://github.com/ParallaxProtocol/parallax) | Reference client (Go, CLI) — full node for servers, miners, and pools |
-| [parallax-gui](https://github.com/ParallaxProtocol/parallax-gui) | Desktop client for Linux, Windows, and macOS |
+| [parallax-wallet](https://github.com/ParallaxProtocol/parallax-wallet) | Parallax Wallet — desktop wallet for Linux, Windows, and macOS, with a full node built in |
 | [hashwarp](https://github.com/ParallaxProtocol/hashwarp) | Official XHash GPU miner — CUDA and OpenCL |
 | [xhash](https://github.com/ParallaxProtocol/xhash) | C/C++ implementation of the XHash Proof-of-Work algorithm |
 | [parallax-whitepaper](https://github.com/ParallaxProtocol/parallax-whitepaper) | Full protocol specification |
