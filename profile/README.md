@@ -53,7 +53,7 @@ point it at the public RPC: `https://rpc.parallaxprotocol.org`.
 ## Get started
 
 - [Run a full node](https://parallaxprotocol.org/en/parallax-client)
-- [Mine](https://parallaxprotocol.org/en/mining) — Ethash-class GPUs work; Ethash *software* does not, use Hashwarp
+- [Mine](https://parallaxprotocol.org/en/mining) — Ethash-class GPUs work; Ethash *software* does not, use [Hashwarp](https://parallaxprotocol.org/en/hashwarp)
 - [Build on the EVM](https://parallaxprotocol.org/en/developers)
 - [Verify the fair launch yourself](https://parallaxprotocol.org/en/verify)
 
